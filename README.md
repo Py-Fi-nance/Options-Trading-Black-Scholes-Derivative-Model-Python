@@ -52,4 +52,4 @@ We welcome contributions to this project. To contribute:
 
 ## Contact Information
 For any questions or inquiries, please contact support@pyfi.com - Subject: Github Repo Q, Options-Trading-Black-Scholes-Derivative-Model-Python.
-For a full article walkthrough please visit > https://www.pyfi.com/blog/options-trading-black-scholes-derivative-model-python < and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://go.pyfi.com/pyfi-courses << 
+For a full article walkthrough please visit > https://www.pyfi.com/blog/options-trading-black-scholes-derivative-model-python < and learn more about PyFi's award winning Python for Finance courses which have been trusted by the top financial institutions in the United States and Canada multiple years running here >> https://www.pyfi.com << 
